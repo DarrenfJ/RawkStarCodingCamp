@@ -1,0 +1,35 @@
+Links for Rawk Star Code Camp
+
+https://www.ted.com/talks/sugata_mitra_shows_how_kids_teach_themselves?language=en
+
+"Speaking at LIFT 2007, Sugata Mitra talks about his Hole in the Wall project. Young kids in this project figured out how to use a PC on their own — and then taught other kids. He asks, what else can children teach themselves?"
+
+===
+
+Code Yourself! An Introduction to Programming
+
+https://www.coursera.org/learn/intro-programming
+
+===
+
+Create stories, games, and animations
+Share with others around the world
+
+https://scratch.mit.edu/
+
+===
+
+kano
+
+http://us.kano.me/
+
+===
+
+laptop you can build yourself
+
+https://pi-top.com/
+
+===
+
+https://www.udacity.com/course/how-to-use-git-and-github--ud775
+
